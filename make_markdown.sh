@@ -1,0 +1,1 @@
+pybtex-format openplanetary.bib openplanetary_bibliography.md
